@@ -10,7 +10,6 @@ Weather Website
 A simple and interactive weather website built using HTML, CSS, and JavaScript. This project was developed during my internship to practice fetching data from APIs and building responsive, user-friendly web applications.
 
 
-Here’s a sample README.md file for a weather website project using HTML, CSS, and JavaScript. You can adapt it to fit the specifics of your project.
 
 Weather Website
 A simple and interactive weather website built using HTML, CSS, and JavaScript. This project was developed during my internship to practice fetching data from APIs and building responsive, user-friendly web applications.
